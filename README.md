@@ -11,6 +11,7 @@ The dashboard supports decision-making in areas such as:
 - risk assessment, pricing strategy, customer segmentation, claim management, policy planning
 ## Dataset Used
 - <a href=""> Dataset </a>
+
 The dataset contains customer-level insurance policy information including demographic details, vehicle attributes and claim data.
 
 Key fields used in analysis:
@@ -46,6 +47,7 @@ The following key performance indicators are used to measure insurance performan
 - Matrix Table – claim amount by education and marital status
 - KPI Cards – overall claim and policy metrics
 - Gender distribution indicators
+- Dashboard Intercation <a href=""> View Dashboard</a>
 ## Key Insights
 - Customers aged 41–60 hold the highest number of policies, showing strong presence of financially stable customers.
 - Private car usage dominates the portfolio, indicating lower commercial exposure.
@@ -60,6 +62,7 @@ The following key performance indicators are used to measure insurance performan
 - Use demographic insights for targeted marketing strategies.
 - Focus on high-volume car brands for improved risk assessment.
 ## Dashboard
+<img width="994" height="590" alt="final Dashboard" src="https://github.com/user-attachments/assets/8256468a-54a4-498d-8519-7f3c5f4c1030" />
 
 ## Conclusion
 
