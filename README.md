@@ -47,7 +47,7 @@ The following key performance indicators are used to measure insurance performan
 - Matrix Table – claim amount by education and marital status
 - KPI Cards – overall claim and policy metrics
 - Gender distribution indicators
-- Dashboard Intercation <a href=""> View Dashboard</a>
+- Dashboard Intercation <a href="https://github.com/ManasaraniB/Insurance-Risk-Claims-Analysis/blob/main/final%20Dashboard.PNG"> View Dashboard</a>
 ## Key Insights
 - Customers aged 41–60 hold the highest number of policies, showing strong presence of financially stable customers.
 - Private car usage dominates the portfolio, indicating lower commercial exposure.
