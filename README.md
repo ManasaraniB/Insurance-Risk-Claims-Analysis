@@ -10,7 +10,7 @@ Insurance companies need to identify high-risk customers and understand factors 
 The dashboard supports decision-making in areas such as:
 - risk assessment, pricing strategy, customer segmentation, claim management, policy planning
 ## Dataset Used
-- <a href=""> Dataset </a>
+- <a href="https://github.com/ManasaraniB/Insurance-Risk-Claims-Analysis/blob/main/insurance_policies_data.xlsx"> Dataset </a>
 
 The dataset contains customer-level insurance policy information including demographic details, vehicle attributes and claim data.
 
